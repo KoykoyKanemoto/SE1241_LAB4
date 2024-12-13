@@ -1,0 +1,7 @@
+When scaling a database to handle millions of users and books, 
+challenges like slow queries and storage issues can arise. 
+As data grows, queries may take longer to run. 
+Indexing helps speed up searches making it quick to access important information. 
+Another challenge is running out of storage space. 
+Database partitioning solves this by breaking large tables into smaller,
+manageable sections, so it is easier to store and access data efficiently.
